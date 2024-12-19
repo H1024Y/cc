@@ -1,0 +1,7 @@
+# ninja log v5
+0	3963	0	/data0/hcm/EDNet_v2/ops/build/temp.linux-x86_64-3.8/data0/hcm/EDNet_v2/ops/src/cpu/ms_deform_attn_cpu.o	342ea710d281c03f
+1	13036	0	/data0/hcm/EDNet_v2/ops/build/temp.linux-x86_64-3.8/data0/hcm/EDNet_v2/ops/src/cuda/ms_deform_attn_cuda.o	9a8c9458400e3cc0
+0	21837	0	/data0/hcm/EDNet_v2/ops/build/temp.linux-x86_64-3.8/data0/hcm/EDNet_v2/ops/src/vision.o	4ce75453f9e4f288
+0	3917	0	/data0/hcm/EDNet_v2/lib/ops/build/temp.linux-x86_64-3.8/data0/hcm/EDNet_v2/lib/ops/src/cpu/ms_deform_attn_cpu.o	98a96da7979118b4
+1	12398	0	/data0/hcm/EDNet_v2/lib/ops/build/temp.linux-x86_64-3.8/data0/hcm/EDNet_v2/lib/ops/src/cuda/ms_deform_attn_cuda.o	877e34eee70d4a1f
+0	21873	0	/data0/hcm/EDNet_v2/lib/ops/build/temp.linux-x86_64-3.8/data0/hcm/EDNet_v2/lib/ops/src/vision.o	d1752e0e83259da9
